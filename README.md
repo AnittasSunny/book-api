@@ -14,7 +14,7 @@ A simple **Books Management API** built with **Spring Boot**, featuring CRUD ope
 
 ## 📄 API Documentation
 Once the application is running, access the interactive Swagger docs at:  
-[https://localhost:8080/docs](https://localhost:8080/docs)
+[http://localhost:8080/docs](http://localhost:8080/docs)
 
 
 ## Run Locally
